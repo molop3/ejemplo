@@ -2,7 +2,7 @@ WordPress Base Theme
 =============
 ![Taller de Código](http://tallerdecodigo.com/wp-content/themes/tallerdecodigo/screenshot.png)
 
-Usar para iniciar un nuevo tema de WordPress
+Usar para iniciar un nuevo tema de WordPress!
 
 ### Credits
 
